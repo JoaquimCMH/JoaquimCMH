@@ -6,9 +6,16 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=joaquimcmh.joaquimcmh)
 
 
+<img align="right" alt="joaquim's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=joaquimcmh&show_icons=true&hide=contribs,issues&theme=cobalt">
+
+
 <span style='text-align: justify;'> I am working as a developer and team leader @analytics-ufcg lab. I am an Fullstack Developer with a history of working in the information technology and services industry. Currently, I am a Ph.D. student in Computer Science from the Federal University of Campina Grande - Brazil researching: location-based services and managing risks in public works. </span>
 
-### A little more about me...  <img src="https://media2.giphy.com/media/NeINOsLLPNP6U/giphy.gif" width="50"> 
+---
+
+
+
+### A little more about me...  
 
 ```javascript
 const joaquim = {
@@ -19,7 +26,7 @@ const joaquim = {
         mobileApp: ["Android App"],
         frontEnd: {
             js: ["angularJS"],
-            Typescript: ["angular 2+"]
+            Typescript: ["angular 2+"],
             css: ["material", "mootstrap"]
         },
         backEnd: {
@@ -34,4 +41,4 @@ const joaquim = {
 
 };
 ```
-
+<img src="https://media2.giphy.com/media/NeINOsLLPNP6U/giphy.gif" width="50"> 
