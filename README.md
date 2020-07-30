@@ -40,8 +40,6 @@ const joaquim = {
 
 };
 ```
-<br>
-
 ---
 
  
