@@ -3,7 +3,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/joaquimcmh?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/joaquimcmh?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=joaquimcmh.joaquimcmh)
+![Profile views](http://hits.dwyl.com/joaquimcmh/joaquimcmh.svg)
 
 
 <img align="right" alt="joaquim's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=joaquimcmh&show_icons=true&hide=contribs,issues&theme=cobalt">
@@ -14,20 +14,19 @@
 ---
 
 
-
 ### A little more about me...  
 
 ```javascript
 const joaquim = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "R"],
-    askMeAbout: ["web dev", "tech", "app dev", "music", "data analysis", "artificial intelligence"],
+    askMeAbout: ["data analysis", "artificial intelligence", "web dev", "app dev", "music"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
             js: ["angularJS"],
             Typescript: ["angular 2+"],
-            css: ["material", "mootstrap"]
+            css: ["material", "bootstrap"]
         },
         backEnd: {
             js: ["node", "express"],
@@ -41,4 +40,8 @@ const joaquim = {
 
 };
 ```
-<img src="https://media2.giphy.com/media/NeINOsLLPNP6U/giphy.gif" width="50"> 
+<br>
+
+---
+
+ 
