@@ -36,7 +36,7 @@ const joaquim = {
         databases: ["mongo", "mysql", "sqlite", "posgresql"],
         misc: ["selenium", "open-cv", "d3"]
     },
-    currentProject: "monitor-cidadao"
+    currentProject: ["monitor-cidadao", "ta-na-mesa"]
 
 };
 ```
