@@ -3,7 +3,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/joaquimcmh?label=Follow)
 ![GitHub followers](https://img.shields.io/github/followers/joaquimcmh?label=Follow&style=social)
-[![HitCount](http://hits.dwyl.com/joaquimcmh/joaquimcmh.svg)](http://hits.dwyl.com/JoaquimCMH/JoaquimCMH)
+![](https://komarev.com/ghpvc/?username=joaquimcmh&color=blueviolet&style=flat-square)
 
 
 <img align="right" alt="joaquim's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=joaquimcmh&show_icons=true&hide=contribs,issues&theme=cobalt">
