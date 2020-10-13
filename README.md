@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=joaquimcmh&color=blueviolet&style=flat-square)
 
 
-<img align="right" alt="joaquim's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=joaquimcmh&show_icons=true&hide=contribs,issues&theme=cobalt">
+<!-- <img align="right" alt="joaquim's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=joaquimcmh&show_icons=true&hide=contribs,issues&theme=cobalt"> -->
 
 
 <span style='text-align: justify;'> I am working as a developer and team leader @analytics-ufcg lab. I am an Fullstack Developer with a history of working in the information technology and services industry. Currently, I am a Ph.D. student in Computer Science from the Federal University of Campina Grande - Brazil researching: location-based services and managing risks in public works. </span>
