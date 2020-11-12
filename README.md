@@ -36,7 +36,10 @@ const joaquim = {
         databases: ["mongo", "mysql", "sqlite", "posgresql"],
         misc: ["selenium", "open-cv", "d3"]
     },
-    currentProject: ["ta-de-pe-merenda", "ta-de-pe-covid", "monitor-cidadao"]
+    project: {
+        current: ["ta-de-pe-merenda", "ta-de-pe-covid"],
+        past: ["monitor-cidadao", "painel-de-obras-tce", "app-attention", "meta-information-extractor"]
+    }
 
 };
 ```
